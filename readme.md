@@ -76,4 +76,4 @@ getwd()
 
 <!-- Imagen guardada localmente -->
 
-![Visual Studio code logo](./imagenes/vsc1.png "Logo de Visual Studio Code")
+![Visual Studio code logo](../imagenes/vsc1.png "Logo de Visual Studio Code")
